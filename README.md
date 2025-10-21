@@ -1,4 +1,4 @@
-#What are the attributes?
+# What are the attributes?
 Attributes refer to variables or methods that are associated with an object (which is an instance of a class).Attributes define the state and behavior of an object.
 ## 1.Instance Attributes
 These are attributes unique to each object(instance) of a class. They are usually defined inside the _init_method.
